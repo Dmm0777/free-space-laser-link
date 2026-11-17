@@ -3,6 +3,10 @@ Free Space Laser Link: Transmitting Signals via PWM
 
 This repository documents the design, build and testing of a laser link prototype. This device was designed to transmit signals over free space by modulating the duty cycle of a laser signal.
 
+The system is shown below.
+
+<img width="2106" height="1178" alt="image" src="https://github.com/user-attachments/assets/5ab3e5d3-edb8-49b5-aa5f-3a793f808575" />
+
 Contributors:
 
 Ayden Edwards
